@@ -1,0 +1,134 @@
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\obj\Debug\QuackGames.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\obj\Debug\QuackGames.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\obj\Debug\Interop.ADODB.dll
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\obj\Debug\QuackGames.vbproj.ResolveComReference.cache
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\obj\Debug\QuackGames.frm_inicio.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\obj\Debug\QuackGames.frm_principal.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\obj\Debug\QuackGames.frm_cadastro.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\obj\Debug\QuackGames.Resources.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\obj\Debug\QuackGames.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\obj\Debug\QuackGames.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\bin\Debug\QuackGames.exe.config
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\bin\Debug\QuackGames.exe
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\bin\Debug\QuackGames.pdb
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\bin\Debug\QuackGames.xml
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\obj\Debug\QuackGames.exe
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\obj\Debug\QuackGames.xml
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames\obj\Debug\QuackGames.pdb
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\bin\Debug\QuackGames.exe.config
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\bin\Debug\QuackGames.exe
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\bin\Debug\QuackGames.pdb
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\bin\Debug\QuackGames.xml
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\obj\Debug\QuackGames.vbproj.AssemblyReference.cache
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\obj\Debug\QuackGames.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\obj\Debug\Interop.ADODB.dll
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\obj\Debug\QuackGames.vbproj.ResolveComReference.cache
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\obj\Debug\QuackGames.frm_inicio.resources
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\obj\Debug\QuackGames.frm_principal.resources
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\obj\Debug\QuackGames.frm_cadastro.resources
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\obj\Debug\QuackGames.Resources.resources
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\obj\Debug\QuackGames.vbproj.GenerateResource.cache
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\obj\Debug\QuackGames.vbproj.CoreCompileInputs.cache
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\obj\Debug\QuackGames.exe
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\obj\Debug\QuackGames.xml
+C:\Users\Samiracchii\Downloads\QuackGames (1)\QuackGames\obj\Debug\QuackGames.pdb
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\bin\Debug\QuackGames.exe.config
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\bin\Debug\QuackGames.exe
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\bin\Debug\QuackGames.pdb
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\bin\Debug\QuackGames.xml
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\Interop.ADODB.dll
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.ResolveComReference.cache
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_inicio.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_principal.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_cadastro.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.Resources.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.exe
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.xml
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.pdb
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_historico.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_carrinho.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_favoritos.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_vender.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_perfil_conta.resources
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\bin\Debug\QuackGames.exe.config
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\bin\Debug\QuackGames.exe
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\bin\Debug\QuackGames.pdb
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\bin\Debug\QuackGames.xml
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.AssemblyReference.cache
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.SuggestedBindingRedirects.cache
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\Interop.ADODB.dll
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.ResolveComReference.cache
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_carrinho.resources
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_favoritos.resources
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_historico.resources
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_inicio.resources
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_perfil_conta.resources
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_principal.resources
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_cadastro.resources
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_vender.resources
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.Resources.resources
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.GenerateResource.cache
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.CoreCompileInputs.cache
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.exe
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.xml
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.pdb
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_cadastro_conta.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_login.resources
+C:\Users\User\Desktop\Faculdade Isa\2Semestre\Sistema de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_jogo.resources
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_cadastro_conta.resources
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_jogo.resources
+D:\Isabela\Sistemas de Informação\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_login.resources
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.AssemblyReference.cache
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\Interop.ADODB.dll
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.ResolveComReference.cache
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_cadastro_conta.resources
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_jogo.resources
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_login.resources
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_carrinho.resources
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_favoritos.resources
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_historico.resources
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_inicio.resources
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_perfil_conta.resources
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_principal.resources
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_cadastro.resources
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_vender.resources
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.Resources.resources
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.exe
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.xml
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\obj\Debug\QuackGames.pdb
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\bin\Debug\QuackGames.exe.config
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\bin\Debug\QuackGames.exe
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\bin\Debug\QuackGames.pdb
+C:\Users\USER\Desktop\QuackGames_atual\QuackGames\bin\Debug\QuackGames.xml
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\bin\Debug\QuackGames.exe.config
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\bin\Debug\QuackGames.exe
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\bin\Debug\QuackGames.pdb
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\bin\Debug\QuackGames.xml
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.AssemblyReference.cache
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\Interop.ADODB.dll
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.ResolveComReference.cache
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_cadastro_conta.resources
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_jogo.resources
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_login.resources
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_carrinho.resources
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_favoritos.resources
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_historico.resources
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_inicio.resources
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_perfil_conta.resources
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_principal.resources
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_cadastro.resources
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.frm_vender.resources
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.Resources.resources
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.GenerateResource.cache
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.vbproj.CoreCompileInputs.cache
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.exe
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.xml
+C:\Users\Samiracchii\Documents\QuackGames_atual\QuackGames\obj\Debug\QuackGames.pdb

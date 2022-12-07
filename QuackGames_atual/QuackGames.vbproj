@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{52CD28B2-E42C-4576-AAC7-14A0CC25CB45}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>QuackGames.My.MyApplication</StartupObject>
+    <RootNamespace>QuackGames</RootNamespace>
+    <AssemblyName>QuackGames</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>QuackGames.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>QuackGames.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>WhatsApp-Image-2022-10-07-at-21.45.30.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_biblioteca.Designer.vb">
+      <DependentUpon>frm_biblioteca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_biblioteca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_gerenciar.Designer.vb">
+      <DependentUpon>frm_gerenciar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_gerenciar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_nova_senha.Designer.vb">
+      <DependentUpon>frm_nova_senha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_nova_senha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_carregando.Designer.vb">
+      <DependentUpon>frm_carregando.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_carregando.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_comprar.Designer.vb">
+      <DependentUpon>frm_comprar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_comprar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_conta.Designer.vb">
+      <DependentUpon>frm_cadastro_conta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_conta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_jogo.Designer.vb">
+      <DependentUpon>frm_jogo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_jogo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_login.Designer.vb">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_favoritos.Designer.vb">
+      <DependentUpon>frm_favoritos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_favoritos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_historico.Designer.vb">
+      <DependentUpon>frm_historico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_historico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_perfil_conta.Designer.vb">
+      <DependentUpon>frm_perfil_conta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_perfil_conta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_principal.Designer.vb">
+      <DependentUpon>frm_principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro.Designer.vb">
+      <DependentUpon>frm_cadastro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_vender.Designer.vb">
+      <DependentUpon>frm_vender.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_vender.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frm_biblioteca.resx">
+      <DependentUpon>frm_biblioteca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_gerenciar.resx">
+      <DependentUpon>frm_gerenciar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_nova_senha.resx">
+      <DependentUpon>frm_nova_senha.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_carregando.resx">
+      <DependentUpon>frm_carregando.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_comprar.resx">
+      <DependentUpon>frm_comprar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_conta.resx">
+      <DependentUpon>frm_cadastro_conta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_jogo.resx">
+      <DependentUpon>frm_jogo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_favoritos.resx">
+      <DependentUpon>frm_favoritos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_historico.resx">
+      <DependentUpon>frm_historico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_perfil_conta.resx">
+      <DependentUpon>frm_perfil_conta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_principal.resx">
+      <DependentUpon>frm_principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro.resx">
+      <DependentUpon>frm_cadastro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_vender.resx">
+      <DependentUpon>frm_vender.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{B691E011-1797-432E-907A-4D8C69339129}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\c1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\c2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\c3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\c4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\c5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\c6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\c7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\c8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\preto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\preto1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\fundo colorido.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\fundo colorido.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\4493281-fundo-gradiente-amarelo-e-marrom-grátis-foto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Carregando\patos.png" />
+    <None Include="bin\Debug\Icones\login.png" />
+    <None Include="bin\Debug\Icones\Button-Delete-icon.png" />
+    <None Include="bin\Debug\Icones\Ok-icon.png" />
+    <None Include="bin\Debug\Icones\Library-2-icon.png" />
+    <None Include="bin\Debug\Icones\book-icon.png" />
+    <None Include="bin\Debug\Icones\EDITAR.png" />
+    <None Include="Resources\Library-2-icon.png" />
+    <Content Include="WhatsApp-Image-2022-10-07-at-21.45.30.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
